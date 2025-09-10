@@ -1,0 +1,15 @@
+Brain Tumor Detection & Segmentation Using Deep Learning
+
+I recently worked on an advanced medical imaging AI project for brain tumor analysis that combines classification and segmentation techniques.
+
+🔹 Classification: Fine-tuned a pre-trained ResNet50 model to detect the presence of brain tumors from MRI scans with high accuracy.
+🔹 Segmentation: Utilized a pre-trained U-Net model to segment and localize tumor regions at the pixel level for more precise analysis.
+
+Key Achievements:
+✅ Applied transfer learning for better performance with limited data.
+✅ Performed advanced preprocessing and augmentation to improve model generalization.
+✅ Achieved both tumor detection and precise segmentation in a streamlined workflow.
+
+This project highlights how AI and deep learning can support healthcare professionals in early diagnosis and treatment planning.
+
+📽 Below is a short demo video showcasing the classification and segmentation result
